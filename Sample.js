@@ -1,5 +1,5 @@
 class details {
     hello(){
-        console.log("Hello All");
+        console.log("Hi All");
     }
 }
