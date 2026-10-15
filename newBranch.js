@@ -1,4 +1,5 @@
-function verify(){
-    console.log("All Good");
+function statusDetails(){
+    console.log("Works Fine");
 }
-verify()
+statusDetails();
+//C:\Users\USER\Desktop\Testing October\OctoberGit
