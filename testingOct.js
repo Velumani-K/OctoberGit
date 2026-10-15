@@ -1,6 +1,6 @@
 
 function message(){
-console.log("Hello")
+console.log("Hi")
 }
 message()
 
