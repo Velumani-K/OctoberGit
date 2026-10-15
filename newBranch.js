@@ -1,4 +1,5 @@
-function status(){
-    console.log("Verify and Update to GitHub");
+function statusDetails(){
+    console.log("Works Fine");
 }
-status();
+statusDetails();
+//C:\Users\USER\Desktop\Testing October\OctoberGit
