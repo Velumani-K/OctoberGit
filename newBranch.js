@@ -1,6 +1,4 @@
-function statusDetails(){
-    console.log("Works Fine");
-    console.log("Checking on 29.10.2026");
+function verify(){
+    console.log("All Good");
 }
-statusDetails();
-//C:\Users\USER\Desktop\Testing October\OctoberGit
+verify()
